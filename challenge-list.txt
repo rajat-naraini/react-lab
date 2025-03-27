@@ -1,0 +1,307 @@
+# 100 React Challenges
+
+## Beginner Challenges (30)
+
+1. **Hello World**
+   - Create a simple React component that displays "Hello, World!" on the screen.
+
+2. **Button Click Counter**
+   - Create a button that increments a counter when clicked.
+
+3. **Toggle Visibility**
+   - Create a button that toggles the visibility of a text element.
+
+4. **Input Echo**
+   - Create an input field that displays its value in real-time as you type.
+
+5. **Simple To-Do List**
+   - Create a basic to-do list where users can add items to a list.
+
+6. **Image Gallery**
+   - Display a series of images in a grid layout.
+
+7. **User Profile Card**
+   - Create a card component displaying a user's profile with name, avatar, and bio.
+
+8. **Color Picker**
+   - Create a simple color picker that updates the background color.
+
+9. **Temperature Converter**
+   - Build a converter between Celsius and Fahrenheit.
+
+10. **Digital Clock**
+    - Create a digital clock that updates every second.
+
+11. **Responsive Navigation Bar**
+    - Create a navigation bar that adapts to different screen sizes.
+
+12. **Simple Form**
+    - Create a form with validation for name, email, and password.
+
+13. **Accordion Component**
+    - Build an expandable/collapsible accordion component.
+
+14. **Star Rating**
+    - Create a star rating component (1-5 stars).
+
+15. **Light/Dark Theme Switcher**
+    - Create a toggle for switching between light and dark themes.
+
+16. **Progress Bar**
+    - Create a progress bar that fills based on a percentage.
+
+17. **Random Quote Generator**
+    - Display random quotes from a predefined list.
+
+18. **Character Counter**
+    - Create a textarea that counts and displays the number of characters.
+
+19. **Simple Calculator**
+    - Build a calculator with basic arithmetic operations.
+
+20. **Tab Interface**
+    - Create a tabbed interface to switch between different content panels.
+
+21. **Loading Spinner**
+    - Create a loading spinner component with animation.
+
+22. **Tooltip Component**
+    - Create tooltips that appear on hover over elements.
+
+23. **Notification Badge**
+    - Create a notification icon with a badge showing the count.
+
+24. **Input With Clear Button**
+    - Create an input field with a button to clear its contents.
+
+25. **Basic Dropdown Menu**
+    - Create a dropdown menu with selectable options.
+
+26. **Responsive Grid**
+    - Create a responsive grid of cards that adjusts based on screen size.
+
+27. **Simple Slider**
+    - Create a slider component to select a value within a range.
+
+28. **Password Strength Indicator**
+    - Create an input field that shows password strength.
+
+29. **Tag Input**
+    - Create an input field that allows users to enter multiple tags.
+
+30. **Animated Button**
+    - Create a button with hover and click animations.
+
+## Intermediate Challenges (50)
+
+31. **Advanced To-Do List**
+    - Build a to-do list with categories, priorities, and local storage persistence.
+
+32. **React Router Navigation**
+    - Create a multi-page application with React Router.
+
+33. **Data Fetching**
+    - Fetch and display data from a public API with loading and error states.
+
+34. **Infinite Scroll**
+    - Implement infinite scrolling for a list of items.
+
+35. **Form With Multiple Steps**
+    - Create a multi-step form with validation at each step.
+
+36. **Drag and Drop List**
+    - Implement drag and drop functionality for reordering a list.
+
+37. **Custom Hook: useLocalStorage**
+    - Create a custom hook for using localStorage.
+
+38. **Search Filter**
+    - Create a search filter for a list of items.
+
+39. **Modal Dialog**
+    - Create a reusable modal dialog component.
+
+40. **Responsive Data Table**
+    - Create a data table with sorting and filtering capabilities.
+
+41. **Authentication Form**
+    - Create login and registration forms with validation.
+
+42. **API Data Pagination**
+    - Implement pagination for API data.
+
+43. **Custom Hook: useDarkMode**
+    - Create a custom hook for implementing dark mode.
+
+44. **Debounced Search**
+    - Implement a search input with debounce functionality.
+
+45. **File Upload with Preview**
+    - Create a file upload component with image preview.
+
+46. **Data Visualization with Recharts**
+    - Create simple charts using the Recharts library.
+
+47. **Context API for Theme**
+    - Use Context API to manage theme across components.
+
+48. **CRUD Operations**
+    - Implement Create, Read, Update, and Delete operations with a mock API.
+
+49. **Image Carousel**
+    - Create an image carousel with next/previous navigation and indicators.
+
+50. **Lazy Loading Components**
+    - Implement lazy loading for components using React.lazy and Suspense.
+
+51. **Custom Form Validation**
+    - Create custom form validation with detailed error messages.
+
+52. **Nested Comments System**
+    - Create a nested comments system with replies.
+
+53. **Virtual Scrolling**
+    - Implement virtual scrolling for a large list.
+
+54. **Stepper Component**
+    - Create a stepper component for multi-step processes.
+
+55. **Autosuggest Input**
+    - Create an input with autosuggest/autocomplete functionality.
+
+56. **Skeleton Loading State**
+    - Implement skeleton screens for loading states.
+
+57. **Undo/Redo Functionality**
+    - Implement undo/redo functionality for a form or editor.
+
+58. **Markdown Editor**
+    - Create a simple markdown editor with preview.
+
+59. **Shopping Cart**
+    - Create a shopping cart with item management and total calculation.
+
+60. **Kanban Board**
+    - Create a simple Kanban board with draggable task cards.
+
+61. **Select with Search**
+    - Create a searchable select/dropdown component.
+
+62. **Date Range Picker**
+    - Create a component for selecting a range of dates.
+
+63. **Collapsible Sidebar**
+    - Create a collapsible sidebar navigation.
+
+64. **Virtualized List**
+    - Implement a virtualized list for efficient rendering of large data sets.
+
+65. **Custom Hook: useMediaQuery**
+    - Create a custom hook for responsive design.
+
+66. **Authentication with Protected Routes**
+    - Implement protected routes using React Router.
+
+67. **Rich Text Editor**
+    - Create a basic rich text editor.
+
+68. **Internationalization (i18n)**
+    - Implement multi-language support.
+
+69. **Keyboard Shortcuts**
+    - Implement keyboard shortcuts for common actions.
+
+70. **Nested Routing**
+    - Implement nested routes with React Router.
+
+71. **User Activity Tracking**
+    - Track and display user activity (e.g., "last active 5 minutes ago").
+
+72. **Tree View Component**
+    - Create a collapsible tree view for hierarchical data.
+
+73. **Form State Management with useReducer**
+    - Use useReducer for complex form state management.
+
+74. **Custom Modal System**
+    - Create a system for managing multiple modals.
+
+75. **Data Grid with Row Expansion**
+    - Create a data grid with expandable rows for additional details.
+
+76. **Error Boundary Implementation**
+    - Implement error boundaries to gracefully handle component errors.
+
+77. **Animated Page Transitions**
+    - Create smooth transitions between pages/routes.
+
+78. **Webcam Integration**
+    - Integrate webcam functionality with user permission handling.
+
+79. **Audio Player**
+    - Create a custom audio player with play, pause, and seek functionality.
+
+80. **Advanced Filtering System**
+    - Create a complex filtering system for data with multiple criteria.
+
+## Advanced Challenges (20)
+
+81. **Redux Integration**
+    - Implement Redux for state management in a complex application.
+
+82. **GraphQL Integration**
+    - Use GraphQL with Apollo Client for data fetching and management.
+
+83. **Real-time Updates with WebSockets**
+    - Implement real-time features using WebSockets.
+
+84. **Custom Form Library**
+    - Build a custom form library with validation, error handling, and state management.
+
+85. **Advanced Animation System**
+    - Create complex animations with libraries like Framer Motion.
+
+86. **Testing Suite**
+    - Set up comprehensive testing with Jest and React Testing Library.
+
+87. **Advanced State Management with Context and useReducer**
+    - Create a scalable state management solution with Context API and useReducer.
+
+88. **Server-Side Rendering**
+    - Implement server-side rendering with Next.js.
+
+89. **Performance Optimization**
+    - Identify and fix performance bottlenecks in a React application.
+
+90. **Advanced Routing with Authentication and Permissions**
+    - Create a routing system with role-based access control.
+
+91. **Drag and Drop Interfaces**
+    - Create advanced drag and drop interfaces with libraries like react-dnd.
+
+92. **Custom Chart Components**
+    - Create custom interactive chart components.
+
+93. **Collaborative Editing**
+    - Implement collaborative editing features.
+
+94. **Design System Implementation**
+    - Create and implement a comprehensive design system.
+
+95. **Advanced Form Wizard**
+    - Create a complex multi-step form with conditional paths and validation.
+
+96. **PDF Generation and Export**
+    - Implement PDF generation and export functionality.
+
+97. **Code Splitting Strategies**
+    - Implement advanced code splitting strategies for optimal loading.
+
+98. **Progressive Web App (PWA)**
+    - Convert the React application into a Progressive Web App.
+
+99. **Micro-Frontend Architecture**
+    - Implement a micro-frontend architecture with independent React applications.
+
+100. **CI/CD Pipeline Integration**
+     - Set up a CI/CD pipeline for automated testing and deployment.

@@ -1,0 +1,14 @@
+import React from 'react';
+import './styles.css';
+
+const HelloWorld = ({ name }) => {
+  return (
+    <div className="hello-container">
+      <h1 className="hello-text">
+        Hello, {name || 'World'}!
+      </h1>
+    </div>
+  );
+};
+
+export default HelloWorld;
